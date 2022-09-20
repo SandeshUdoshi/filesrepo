@@ -2,3 +2,5 @@ this is fourth file in Git bugfix branch
 added second line to fourth file
 third line is added to file4
 fouth line is added to file4
+[bugfix 320187a] 4th line added to file4
+ 1 file changed, 1 insertion(+)
