@@ -1,1 +1,2 @@
 this is fourth file in Git bugfix branch
+added second line to fourth file
